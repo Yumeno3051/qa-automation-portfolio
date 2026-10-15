@@ -1,5 +1,5 @@
 # QA Automation Portfolio
-
+![Tests](https://github.com/Yumeno3051/qa-automation-portfolio/actions/workflows/tests.yml/badge.svg)
 Портфолио автотестов на Python. Демонстрирует навыки написания тестов для API, UI, БД и сетевых приложений.
 
 ## 🛠 Технологии
